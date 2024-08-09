@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: blue;
+}
+nav{
+    background-color: green;
+    height: 50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 150px;
+    line-height: 50px;
+    font-size: 1em;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
+#flee{
+    background-color: blue;
+}
+#pe{
+    background-color: aqua;
+    height: 30px;
+}
+#foot{
+    display: flex;
+    padding-left: 150px;
+}
+#spa{
+    padding-left: 200px;
+}
+#display{
+    display: flex;
+    padding-left: 10px;
+}
+#she{
+    display: flex;
+}
+#st{
+    padding-left: 40%;
+}
+#he{
+    padding-left: 2%;
+}
+.we{
+    margin-right: 10px;
+    padding-left: 20px;
+}
+p{
+    text-align: initial;
+}
+.they{
+    margin-right: 20px;
+}
+ 

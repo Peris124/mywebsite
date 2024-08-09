@@ -1,0 +1,32 @@
+
+nav{
+    background-color: purple;
+    height: 50px;
+    padding-left: 50%;
+}
+a{
+    color: white;
+    line-height: 50px;
+    text-decoration: none;
+    padding: 20px 25px;
+}
+footer{
+    background-color: aqua;
+
+}
+body{
+    background-position: url(images/beach.jpg);
+}
+#diff{
+    height: 50px;
+    text-align: center;
+}
+#web{
+    background-color: red;
+}
+#fle{
+    display:flex;
+}
+#lee{
+    padding-left: 30px;
+}
